@@ -9,4 +9,4 @@ This repository for my work, i build landing page about healthy food, and this w
 
 ## Result Screenshots
 
-![Result Healpy Food](resources/img/result.png)
+![Result Healpy Food](https://user-images.githubusercontent.com/47552952/224101278-6d838154-7276-4df5-b6bb-b00b16130702.png)
